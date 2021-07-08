@@ -1,0 +1,13 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:purple_log"
+    }
+  ],
+  "result": {
+    "item": "buffes_world:purple_planks",
+    "count": 4
+  }
+}

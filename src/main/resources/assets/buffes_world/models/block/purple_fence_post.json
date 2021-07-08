@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "buffes_world:blocks/purple_planks",
+    "particle": "buffes_world:blocks/purple_planks"
+  }
+}

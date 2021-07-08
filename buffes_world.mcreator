@@ -1,0 +1,378 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "OrangeWood",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_wood"
+    },
+    {
+      "name": "OrangeLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_log"
+    },
+    {
+      "name": "OrangePlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_planks"
+    },
+    {
+      "name": "OrangeLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_leaves"
+    },
+    {
+      "name": "OrangeStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_stairs"
+    },
+    {
+      "name": "OrangeSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_slab"
+    },
+    {
+      "name": "OrangeFence",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_fence"
+    },
+    {
+      "name": "OrangeFenceGate",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_fence_gate"
+    },
+    {
+      "name": "OrangeItemsTag",
+      "type": "tag",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_items_tag"
+    },
+    {
+      "name": "OrangeWoodRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_wood_recipe"
+    },
+    {
+      "name": "OrangePlanksRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_planks_recipe"
+    },
+    {
+      "name": "OrangeStairsRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_stairs_recipe"
+    },
+    {
+      "name": "OrangeSlabRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_slab_recipe"
+    },
+    {
+      "name": "OrangeFenceRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_fence_recipe"
+    },
+    {
+      "name": "OrangeFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_fence_gate_recipe"
+    },
+    {
+      "name": "OrangeStickRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_stick_recipe"
+    },
+    {
+      "name": "Orangewoodforest",
+      "type": "biome",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orangewoodforest"
+    },
+    {
+      "name": "Creativetab",
+      "type": "tab",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creativetab"
+    },
+    {
+      "name": "PurpleWood",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_wood"
+    },
+    {
+      "name": "PurpleLog",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_log"
+    },
+    {
+      "name": "PurplePlanks",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_planks"
+    },
+    {
+      "name": "PurpleLeaves",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_leaves"
+    },
+    {
+      "name": "PurpleStairs",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_stairs"
+    },
+    {
+      "name": "PurpleSlab",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_slab"
+    },
+    {
+      "name": "PurpleFence",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_fence"
+    },
+    {
+      "name": "PurpleFenceGate",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_fence_gate"
+    },
+    {
+      "name": "PurpleItemsTag",
+      "type": "tag",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_items_tag"
+    },
+    {
+      "name": "PurpleWoodRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_wood_recipe"
+    },
+    {
+      "name": "PurplePlanksRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_planks_recipe"
+    },
+    {
+      "name": "PurpleStairsRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_stairs_recipe"
+    },
+    {
+      "name": "PurpleSlabRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_slab_recipe"
+    },
+    {
+      "name": "PurpleFenceRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_fence_recipe"
+    },
+    {
+      "name": "PurpleFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_fence_gate_recipe"
+    },
+    {
+      "name": "PurpleStickRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_stick_recipe"
+    },
+    {
+      "name": "Mysticalforest",
+      "type": "biome",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mysticalforest"
+    },
+    {
+      "name": "Purplecow",
+      "type": "mob",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purplecow"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.buffes_world.purple_stairs": "Purple Stairs",
+      "block.buffes_world.orange_log": "Orange Log",
+      "block.buffes_world.purple_fence_gate": "Purple Fence Gate",
+      "block.buffes_world.orange_wood": "Orange Wood",
+      "block.buffes_world.purple_wood": "Purple Wood",
+      "block.buffes_world.purple_fence": "Purple Fence",
+      "block.buffes_world.purple_slab": "Purple Slab",
+      "block.buffes_world.purple_leaves": "Purple Leaves",
+      "block.buffes_world.orange_leaves": "Orange Leaves",
+      "entity.buffes_world.purplecow": "Mystical Cow",
+      "block.buffes_world.orange_slab": "Orange Slab",
+      "block.buffes_world.purple_log": "Purple Log",
+      "biome.buffes_world.orangewoodforest": "Orangewood Forest",
+      "block.buffes_world.orange_planks": "Orange Planks",
+      "block.buffes_world.orange_fence": "Orange Fence",
+      "block.buffes_world.purple_planks": "Purple Planks",
+      "block.buffes_world.orange_fence_gate": "Orange Fence Gate",
+      "biome.buffes_world.mysticalforest": "Mystical Forest",
+      "itemGroup.tabcreativetab": "Buff-E\u0027s World",
+      "block.buffes_world.orange_stairs": "Orange Stairs",
+      "item.buffes_world.purplecow_spawn_egg": "Mystical Cow Spawn Egg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "buffes_world",
+    "modName": "Buff-E\u0027s World",
+    "version": "1.0.0",
+    "author": "xande, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.buffesworld",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

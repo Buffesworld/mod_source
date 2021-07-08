@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "buffes_world:block/purple_slab"
+    },
+    "type=top": {
+      "model": "buffes_world:block/purple_slab_top"
+    },
+    "type=double": {
+      "model": "buffes_world:block/purple_slab_full"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:orange_log"
+    }
+  ],
+  "result": {
+    "item": "buffes_world:orange_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "buffes_world:blocks/purple_planks",
+    "top": "buffes_world:blocks/purple_planks",
+    "side": "buffes_world:blocks/purple_planks"
+  }
+}

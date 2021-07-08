@@ -1,0 +1,33 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "buffes_world:purple_planks"
+    },
+    "3": {
+      "item": "buffes_world:purple_planks"
+    },
+    "4": {
+      "item": "buffes_world:purple_planks"
+    },
+    "6": {
+      "item": "buffes_world:purple_planks"
+    },
+    "7": {
+      "item": "buffes_world:purple_planks"
+    },
+    "8": {
+      "item": "buffes_world:purple_planks"
+    }
+  },
+  "result": {
+    "item": "buffes_world:purple_stairs",
+    "count": 4
+  }
+}

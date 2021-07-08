@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:PurpleWood"
+      },
+      {
+        "value": "CUSTOM:PurpleLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "purple_log",
+    "namespace": "forge"
+  }
+}

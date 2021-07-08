@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "buffes_world:blocks/purple_planks"
+  }
+}
