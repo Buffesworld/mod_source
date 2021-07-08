@@ -23,7 +23,7 @@ public class PurplecowRenderer {
 					renderManager -> new MobRenderer(renderManager, new CowModel(), 0.5f) {
 						@Override
 						public ResourceLocation getEntityTexture(Entity entity) {
-							return new ResourceLocation("buffes_world:textures/mysticalcow.png");
+							return new ResourceLocation("buffes_world:textures/purple_cow.png");
 						}
 					});
 		}

@@ -53,7 +53,7 @@ public class PurplecowEntity extends BuffesWorldModElements.ModElement {
 	@Override
 	public void initElements() {
 		elements.entities.add(() -> entity);
-		elements.items.add(() -> new SpawnEggItem(entity, -6710785, -3394561, new Item.Properties().group(ItemGroup.MISC))
+		elements.items.add(() -> new SpawnEggItem(entity, -14548946, -3394561, new Item.Properties().group(ItemGroup.MISC))
 				.setRegistryName("purplecow_spawn_egg"));
 	}
 
