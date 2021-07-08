@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "buffes_world:blocks/runicore",
-    "particle": "buffes_world:blocks/runicore"
-  }
-}

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "buffes_world:items/missing_item"
+    "layer0": "buffes_world:items/runic_leggings"
   }
 }

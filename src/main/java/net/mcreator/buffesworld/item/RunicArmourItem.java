@@ -79,25 +79,25 @@ public class RunicArmourItem extends BuffesWorldModElements.ModElement {
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(ItemGroup.COMBAT)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "buffes_world:textures/models/armor/citrine_armour_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "buffes_world:textures/models/armor/runic_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("runic_armour_helmet"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.CHEST, new Item.Properties().group(ItemGroup.COMBAT)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "buffes_world:textures/models/armor/citrine_armour_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "buffes_world:textures/models/armor/runic_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("runic_armour_chestplate"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.LEGS, new Item.Properties().group(ItemGroup.COMBAT)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "buffes_world:textures/models/armor/citrine_armour_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "buffes_world:textures/models/armor/runic_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("runic_armour_leggings"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.FEET, new Item.Properties().group(ItemGroup.COMBAT)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "buffes_world:textures/models/armor/citrine_armour_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "buffes_world:textures/models/armor/runic_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("runic_armour_boots"));
 	}

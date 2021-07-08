@@ -1,0 +1,19 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:purple_dye"
+    }
+  ],
+  "result": {
+    "item": "buffes_world:runicshard",
+    "count": 1
+  }
+}

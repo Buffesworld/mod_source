@@ -305,15 +305,6 @@
       "registry_name": "rune"
     },
     {
-      "name": "Runicore",
-      "type": "block",
-      "sortid": 51,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "runicore"
-    },
-    {
       "name": "Runicshard",
       "type": "item",
       "sortid": 52,
@@ -516,6 +507,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "runicchestplate"
+    },
+    {
+      "name": "Runerecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runerecipe"
     }
   ],
   "variable_elements": [],
@@ -556,7 +556,6 @@
       "block.buffes_world.purple_planks": "Purple Planks",
       "itemGroup.tabcreativetab": "BuffE\u0027s World",
       "item.buffes_world.purplecow_spawn_egg": "Mystical Cow Spawn Egg",
-      "block.buffes_world.runicore": "Runic Ore",
       "block.buffes_world.tangerine_log": "Groggy Log"
     }
   },

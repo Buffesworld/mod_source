@@ -3,17 +3,17 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "missing_item",
+    "textureHelmet": "runic_helmet",
     "enableBody": true,
     "textureBody": "runic_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "missing_item",
+    "textureLeggings": "runic_leggings",
     "enableBoots": true,
-    "textureBoots": "missing_item",
+    "textureBoots": "runic_boots",
     "creativeTab": {
       "value": "COMBAT"
     },
-    "armorTextureFile": "citrine_armour",
+    "armorTextureFile": "runic",
     "helmetName": "Runic Helmet",
     "bodyName": "Runic Chestplate",
     "leggingsName": "Runic Leggings",
