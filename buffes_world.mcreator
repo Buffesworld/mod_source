@@ -516,6 +516,132 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "runerecipe"
+    },
+    {
+      "name": "Runichelmet",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runichelmet"
+    },
+    {
+      "name": "Runicleggings",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runicleggings"
+    },
+    {
+      "name": "Runicboots",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runicboots"
+    },
+    {
+      "name": "Test",
+      "type": "tag",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test"
+    },
+    {
+      "name": "RunicPickaxe",
+      "type": "tool",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_pickaxe"
+    },
+    {
+      "name": "RunicAxe",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_axe"
+    },
+    {
+      "name": "RunicSword",
+      "type": "tool",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_sword"
+    },
+    {
+      "name": "RunicShovel",
+      "type": "tool",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_shovel"
+    },
+    {
+      "name": "RunicHoe",
+      "type": "tool",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_hoe"
+    },
+    {
+      "name": "RunicPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_pickaxe_recipe"
+    },
+    {
+      "name": "RunicAxeRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_axe_recipe"
+    },
+    {
+      "name": "RunicSwordRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_sword_recipe"
+    },
+    {
+      "name": "RunicShovelRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_shovel_recipe"
+    },
+    {
+      "name": "RunicHoeRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_hoe_recipe"
     }
   ],
   "variable_elements": [],
@@ -526,6 +652,7 @@
       "block.buffes_world.purple_fence": "Purple Fence",
       "block.buffes_world.tangerine_fence": "Groggy Fence",
       "block.buffes_world.citrine_block": "Block of Citrine",
+      "item.buffes_world.runic_shovel": "Runic Shovel",
       "block.buffes_world.purple_leaves": "Purple Leaves",
       "item.buffes_world.citrine": "Citrine",
       "item.buffes_world.rune": "Rune",
@@ -542,6 +669,7 @@
       "item.buffes_world.runicshard": "Runic Shard",
       "block.buffes_world.tangerine_planks": "Groggy Planks",
       "block.buffes_world.tangerine_leaves": "Groggy Leaves",
+      "item.buffes_world.runic_sword": "Runic Sword",
       "block.buffes_world.purple_stairs": "Purple Stairs",
       "block.buffes_world.tangerine_slab": "Groggy Slab",
       "block.buffes_world.purple_fence_gate": "Purple Fence Gate",
@@ -551,12 +679,15 @@
       "block.buffes_world.purple_slab": "Purple Slab",
       "item.buffes_world.citrinejewel": "Citrine Jewel",
       "item.buffes_world.citrine_armour_armor_helmet": "Citrine Helmet",
+      "item.buffes_world.runic_hoe": "Runic Hoe",
       "entity.buffes_world.purplecow": "Mystical \"Cow R\" Cow",
       "item.buffes_world.runic_armour_chestplate": "Runic Chestplate",
       "block.buffes_world.purple_planks": "Purple Planks",
+      "item.buffes_world.runic_pickaxe": "Runic Pickaxe",
       "itemGroup.tabcreativetab": "BuffE\u0027s World",
       "item.buffes_world.purplecow_spawn_egg": "Mystical \"Cow R\" Cow Spawn Egg",
-      "block.buffes_world.tangerine_log": "Groggy Log"
+      "block.buffes_world.tangerine_log": "Groggy Log",
+      "item.buffes_world.runic_axe": "Runic Axe"
     }
   },
   "foldersRoot": {

@@ -1,0 +1,25 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "buffes_world:rune"
+    },
+    {
+      "item": "buffes_world:rune"
+    },
+    {
+      "item": "buffes_world:rune"
+    },
+    {
+      "item": "buffes_world:rune"
+    },
+    {
+      "item": "minecraft:netherite_leggings"
+    }
+  ],
+  "result": {
+    "item": "buffes_world:runic_armour_leggings",
+    "count": 1
+  }
+}

@@ -29,16 +29,18 @@
     "particlesProbability": 0.5,
     "biomeCategory": "PLAINS",
     "parent": {
-      "value": "CUSTOM:Mysticalforest"
+      "value": "plains"
     },
     "rainingPossibility": 0.5,
-    "temperature": 0.5,
+    "temperature": 1.0,
     "baseHeight": 0.1,
     "heightVariation": 0.2,
     "biomeType": "WARM",
     "spawnBiome": true,
     "biomeWeight": 1,
-    "biomeDictionaryTypes": [],
+    "biomeDictionaryTypes": [
+      "PLAINS"
+    ],
     "grassPerChunk": 4,
     "seagrassPerChunk": 0,
     "flowersPerChunk": 4,
@@ -68,7 +70,7 @@
     "spawnStronghold": false,
     "spawnMineshaft": false,
     "spawnPillagerOutpost": false,
-    "villageType": "none",
+    "villageType": "plains",
     "spawnWoodlandMansion": false,
     "spawnJungleTemple": false,
     "spawnDesertPyramid": false,
@@ -78,8 +80,7 @@
     "oceanRuinType": "NONE",
     "defaultFeatures": [
       "Caves",
-      "Ores",
-      "FrozenTopLayer"
+      "Ores"
     ],
     "spawnEntries": [
       {

@@ -3,6 +3,7 @@
   "block.buffes_world.purple_fence": "Purple Fence",
   "block.buffes_world.tangerine_fence": "Groggy Fence",
   "block.buffes_world.citrine_block": "Block of Citrine",
+  "item.buffes_world.runic_shovel": "Runic Shovel",
   "block.buffes_world.purple_leaves": "Purple Leaves",
   "item.buffes_world.citrine": "Citrine",
   "item.buffes_world.rune": "Rune",
@@ -19,6 +20,7 @@
   "item.buffes_world.runicshard": "Runic Shard",
   "block.buffes_world.tangerine_planks": "Groggy Planks",
   "block.buffes_world.tangerine_leaves": "Groggy Leaves",
+  "item.buffes_world.runic_sword": "Runic Sword",
   "block.buffes_world.purple_stairs": "Purple Stairs",
   "block.buffes_world.tangerine_slab": "Groggy Slab",
   "block.buffes_world.purple_fence_gate": "Purple Fence Gate",
@@ -28,10 +30,13 @@
   "block.buffes_world.purple_slab": "Purple Slab",
   "item.buffes_world.citrinejewel": "Citrine Jewel",
   "item.buffes_world.citrine_armour_armor_helmet": "Citrine Helmet",
+  "item.buffes_world.runic_hoe": "Runic Hoe",
   "entity.buffes_world.purplecow": "Mystical \"Cow R\" Cow",
   "item.buffes_world.runic_armour_chestplate": "Runic Chestplate",
   "block.buffes_world.purple_planks": "Purple Planks",
+  "item.buffes_world.runic_pickaxe": "Runic Pickaxe",
   "itemGroup.tabcreativetab": "BuffE\u0027s World",
   "item.buffes_world.purplecow_spawn_egg": "Mystical \"Cow R\" Cow Spawn Egg",
-  "block.buffes_world.tangerine_log": "Groggy Log"
+  "block.buffes_world.tangerine_log": "Groggy Log",
+  "item.buffes_world.runic_axe": "Runic Axe"
 }

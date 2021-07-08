@@ -1,0 +1,30 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "buffes_world:rune"
+    },
+    "1": {
+      "item": "buffes_world:rune"
+    },
+    "2": {
+      "item": "buffes_world:rune"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "buffes_world:runic_pickaxe",
+    "count": 1
+  }
+}
