@@ -1,8 +1,0 @@
-{
-  "parent": "block/inner_stairs",
-  "textures": {
-    "bottom": "buffes_world:blocks/orange_planks",
-    "top": "buffes_world:blocks/orange_planks",
-    "side": "buffes_world:blocks/orange_planks"
-  }
-}

@@ -2,159 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "OrangeWood",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_wood"
-    },
-    {
-      "name": "OrangeLog",
-      "type": "block",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_log"
-    },
-    {
-      "name": "OrangePlanks",
-      "type": "block",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_planks"
-    },
-    {
-      "name": "OrangeLeaves",
-      "type": "block",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_leaves"
-    },
-    {
-      "name": "OrangeStairs",
-      "type": "block",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_stairs"
-    },
-    {
-      "name": "OrangeSlab",
-      "type": "block",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_slab"
-    },
-    {
-      "name": "OrangeFence",
-      "type": "block",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_fence"
-    },
-    {
-      "name": "OrangeFenceGate",
-      "type": "block",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_fence_gate"
-    },
-    {
-      "name": "OrangeItemsTag",
-      "type": "tag",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_items_tag"
-    },
-    {
-      "name": "OrangeWoodRecipe",
-      "type": "recipe",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_wood_recipe"
-    },
-    {
-      "name": "OrangePlanksRecipe",
-      "type": "recipe",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_planks_recipe"
-    },
-    {
-      "name": "OrangeStairsRecipe",
-      "type": "recipe",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_stairs_recipe"
-    },
-    {
-      "name": "OrangeSlabRecipe",
-      "type": "recipe",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_slab_recipe"
-    },
-    {
-      "name": "OrangeFenceRecipe",
-      "type": "recipe",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_fence_recipe"
-    },
-    {
-      "name": "OrangeFenceGateRecipe",
-      "type": "recipe",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_fence_gate_recipe"
-    },
-    {
-      "name": "OrangeStickRecipe",
-      "type": "recipe",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_stick_recipe"
-    },
-    {
-      "name": "Orangewoodforest",
-      "type": "biome",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orangewoodforest"
-    },
-    {
       "name": "Creativetab",
       "type": "tab",
       "sortid": 18,
@@ -465,6 +312,210 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "runicore"
+    },
+    {
+      "name": "Runicshard",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runicshard"
+    },
+    {
+      "name": "Runicshardtorune",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runicshardtorune"
+    },
+    {
+      "name": "TangerineWood",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_wood"
+    },
+    {
+      "name": "TangerineLog",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_log"
+    },
+    {
+      "name": "TangerinePlanks",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_planks"
+    },
+    {
+      "name": "TangerineLeaves",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_leaves"
+    },
+    {
+      "name": "TangerineStairs",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_stairs"
+    },
+    {
+      "name": "TangerineSlab",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_slab"
+    },
+    {
+      "name": "TangerineFence",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_fence"
+    },
+    {
+      "name": "TangerineFenceGate",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_fence_gate"
+    },
+    {
+      "name": "TangerineItemsTag",
+      "type": "tag",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_items_tag"
+    },
+    {
+      "name": "TangerineWoodRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_wood_recipe"
+    },
+    {
+      "name": "TangerinePlanksRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_planks_recipe"
+    },
+    {
+      "name": "TangerineStairsRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_stairs_recipe"
+    },
+    {
+      "name": "TangerineSlabRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_slab_recipe"
+    },
+    {
+      "name": "TangerineFenceRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_fence_recipe"
+    },
+    {
+      "name": "TangerineFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_fence_gate_recipe"
+    },
+    {
+      "name": "TangerineStickRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tangerine_stick_recipe"
+    },
+    {
+      "name": "OrangeForest",
+      "type": "biome",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_forest"
+    },
+    {
+      "name": "Groggyplanks",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groggyplanks"
+    },
+    {
+      "name": "RunicArmour",
+      "type": "armor",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_armour",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Runicchestplate",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runicchestplate"
     }
   ],
   "variable_elements": [],
@@ -473,35 +524,40 @@
     "en_us": {
       "block.buffes_world.purple_wood": "Purple Wood",
       "block.buffes_world.purple_fence": "Purple Fence",
+      "block.buffes_world.tangerine_fence": "Groggy Fence",
       "block.buffes_world.citrine_block": "Block of Citrine",
       "block.buffes_world.purple_leaves": "Purple Leaves",
       "item.buffes_world.citrine": "Citrine",
-      "block.buffes_world.orange_leaves": "Orange Leaves",
       "item.buffes_world.rune": "Rune",
+      "block.buffes_world.tangerine_fence_gate": "Groggy Fence Gate",
+      "item.buffes_world.runic_armour_leggings": "Runic Leggings",
       "block.buffes_world.purple_log": "Purple Log",
-      "biome.buffes_world.orangewoodforest": "Orangewood Forest",
-      "block.buffes_world.orange_planks": "Orange Planks",
-      "block.buffes_world.orange_fence": "Orange Fence",
+      "biome.buffes_world.orange_forest": "Groggy Forest",
       "item.buffes_world.citrine_armour_armor_chestplate": "Citrine Chestplate",
+      "item.buffes_world.runic_armour_helmet": "Runic Helmet",
       "biome.buffes_world.mysticalforest": "Mystical Forest",
-      "block.buffes_world.orange_stairs": "Orange Stairs",
+      "block.buffes_world.tangerine_wood": "Groggy Wood",
       "item.buffes_world.citrine_armour_armor_boots": "Citrine Boots",
+      "block.buffes_world.tangerine_stairs": "Groggy Stairs",
+      "item.buffes_world.runicshard": "Runic Shard",
+      "block.buffes_world.tangerine_planks": "Groggy Planks",
+      "block.buffes_world.tangerine_leaves": "Groggy Leaves",
       "block.buffes_world.purple_stairs": "Purple Stairs",
-      "block.buffes_world.orange_log": "Orange Log",
+      "block.buffes_world.tangerine_slab": "Groggy Slab",
       "block.buffes_world.purple_fence_gate": "Purple Fence Gate",
       "block.buffes_world.citrine_ore": "Citrine Ore",
-      "block.buffes_world.orange_wood": "Orange Wood",
+      "item.buffes_world.runic_armour_boots": "Runic Boots",
       "item.buffes_world.citrine_armour_armor_leggings": "Citrine Leggings",
       "block.buffes_world.purple_slab": "Purple Slab",
       "item.buffes_world.citrinejewel": "Citrine Jewel",
       "item.buffes_world.citrine_armour_armor_helmet": "Citrine Helmet",
       "entity.buffes_world.purplecow": "Mystical Cow",
-      "block.buffes_world.orange_slab": "Orange Slab",
+      "item.buffes_world.runic_armour_chestplate": "Runic Chestplate",
       "block.buffes_world.purple_planks": "Purple Planks",
-      "block.buffes_world.orange_fence_gate": "Orange Fence Gate",
-      "itemGroup.tabcreativetab": "Buff-E\u0027s World",
+      "itemGroup.tabcreativetab": "BuffE\u0027s World",
       "item.buffes_world.purplecow_spawn_egg": "Mystical Cow Spawn Egg",
-      "block.buffes_world.runicore": "Runic Ore"
+      "block.buffes_world.runicore": "Runic Ore",
+      "block.buffes_world.tangerine_log": "Groggy Log"
     }
   },
   "foldersRoot": {

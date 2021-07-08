@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab_top",
-  "textures": {
-    "bottom": "buffes_world:blocks/orange_planks",
-    "top": "buffes_world:blocks/orange_planks",
-    "side": "buffes_world:blocks/orange_planks"
-  }
-}

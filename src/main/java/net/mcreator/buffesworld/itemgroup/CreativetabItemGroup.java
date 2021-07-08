@@ -7,7 +7,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 
-import net.mcreator.buffesworld.block.OrangeLeavesBlock;
+import net.mcreator.buffesworld.item.RunicshardItem;
 import net.mcreator.buffesworld.BuffesWorldModElements;
 
 @BuffesWorldModElements.ModElement.Tag
@@ -22,14 +22,14 @@ public class CreativetabItemGroup extends BuffesWorldModElements.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(OrangeLeavesBlock.block, (int) (1));
+				return new ItemStack(RunicshardItem.block, (int) (1));
 			}
 
 			@OnlyIn(Dist.CLIENT)
 			public boolean hasSearchBar() {
-				return true;
+				return false;
 			}
-		}.setBackgroundImageName("item_search.png");
+		};
 	}
 	public static ItemGroup tab;
 }

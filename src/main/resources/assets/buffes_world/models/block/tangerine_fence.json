@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "buffes_world:blocks/tangerine_planks",
+    "particle": "buffes_world:blocks/tangerine_planks"
+  }
+}

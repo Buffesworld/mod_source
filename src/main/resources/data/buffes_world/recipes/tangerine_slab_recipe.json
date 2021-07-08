@@ -1,0 +1,22 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "buffes_world:tangerine_planks"
+    },
+    "1": {
+      "item": "buffes_world:tangerine_planks"
+    },
+    "2": {
+      "item": "buffes_world:tangerine_planks"
+    }
+  },
+  "result": {
+    "item": "buffes_world:tangerine_slab",
+    "count": 6
+  }
+}

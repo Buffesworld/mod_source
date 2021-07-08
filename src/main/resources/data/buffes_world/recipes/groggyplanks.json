@@ -1,0 +1,16 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "buffes_world:tangerine_log"
+    }
+  },
+  "result": {
+    "item": "buffes_world:tangerine_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TangerineWood"
+      },
+      {
+        "value": "CUSTOM:TangerineLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "tangerine_log",
+    "namespace": "forge"
+  }
+}

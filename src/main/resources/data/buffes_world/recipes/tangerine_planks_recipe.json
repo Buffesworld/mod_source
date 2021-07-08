@@ -1,0 +1,13 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:tangerine_log"
+    }
+  ],
+  "result": {
+    "item": "buffes_world:tangerine_planks",
+    "count": 4
+  }
+}

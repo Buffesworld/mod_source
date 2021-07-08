@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "biome",
   "definition": {
-    "name": "Mystical Forest",
+    "name": "Groggy Forest",
     "groundBlock": {
       "value": "Blocks.GRASS"
     },
@@ -29,7 +29,7 @@
     "particlesProbability": 0.5,
     "biomeCategory": "PLAINS",
     "parent": {
-      "value": "CUSTOM:Mysticalforest"
+      "value": "No parent"
     },
     "rainingPossibility": 0.5,
     "temperature": 0.5,
@@ -37,7 +37,7 @@
     "heightVariation": 0.2,
     "biomeType": "WARM",
     "spawnBiome": true,
-    "biomeWeight": 1,
+    "biomeWeight": 10,
     "biomeDictionaryTypes": [],
     "grassPerChunk": 4,
     "seagrassPerChunk": 0,
@@ -49,15 +49,15 @@
     "reedsPerChunk": 0,
     "cactiPerChunk": 0,
     "treesPerChunk": 1,
-    "vanillaTreeType": "Default",
+    "vanillaTreeType": "Big trees",
     "treeType": 1,
-    "minHeight": 13,
+    "minHeight": 7,
     "maxWaterDepth": 0,
     "treeStem": {
-      "value": "CUSTOM:PurpleLog"
+      "value": "CUSTOM:TangerineLog"
     },
     "treeBranch": {
-      "value": "CUSTOM:PurpleLeaves"
+      "value": "CUSTOM:TangerineLeaves"
     },
     "treeVines": {
       "value": ""
@@ -81,16 +81,6 @@
       "Ores",
       "FrozenTopLayer"
     ],
-    "spawnEntries": [
-      {
-        "entity": {
-          "value": "CUSTOM:Purplecow"
-        },
-        "minGroup": 4,
-        "maxGroup": 4,
-        "weight": 20,
-        "spawnType": "creature"
-      }
-    ]
+    "spawnEntries": []
   }
 }

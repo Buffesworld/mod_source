@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "buffes_world:block/tangerine_slab"
+    },
+    "type=top": {
+      "model": "buffes_world:block/tangerine_slab_top"
+    },
+    "type=double": {
+      "model": "buffes_world:block/tangerine_slab_full"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "buffes_world:runicshard"
+    },
+    {
+      "item": "buffes_world:runicshard"
+    },
+    {
+      "item": "buffes_world:runicshard"
+    },
+    {
+      "item": "buffes_world:runicshard"
+    }
+  ],
+  "result": {
+    "item": "buffes_world:rune",
+    "count": 1
+  }
+}

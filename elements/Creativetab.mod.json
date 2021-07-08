@@ -2,10 +2,10 @@
   "_fv": 18,
   "_type": "tab",
   "definition": {
-    "name": "Buff-E's World",
+    "name": "BuffE's World",
     "icon": {
-      "value": "CUSTOM:OrangeLeaves"
+      "value": "CUSTOM:Runicshard"
     },
-    "showSearch": true
+    "showSearch": false
   }
 }
