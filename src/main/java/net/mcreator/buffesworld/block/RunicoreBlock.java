@@ -2,33 +2,30 @@
 package net.mcreator.buffesworld.block;
 
 import net.minecraftforge.registries.ObjectHolder;
+import net.minecraftforge.common.ToolType;
 
-import net.minecraft.world.IBlockReader;
-import net.minecraft.util.math.BlockPos;
-import net.minecraft.util.Direction;
-import net.minecraft.state.properties.SlabType;
 import net.minecraft.loot.LootContext;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.item.BlockItem;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
-import net.minecraft.block.SlabBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
 import net.mcreator.buffesworld.itemgroup.CreativetabItemGroup;
+import net.mcreator.buffesworld.item.RuneItem;
 import net.mcreator.buffesworld.BuffesWorldModElements;
 
 import java.util.List;
 import java.util.Collections;
 
 @BuffesWorldModElements.ModElement.Tag
-public class OrangeSlabBlock extends BuffesWorldModElements.ModElement {
-	@ObjectHolder("buffes_world:orange_slab")
+public class RunicoreBlock extends BuffesWorldModElements.ModElement {
+	@ObjectHolder("buffes_world:runicore")
 	public static final Block block = null;
-	public OrangeSlabBlock(BuffesWorldModElements instance) {
-		super(instance, 6);
+	public RunicoreBlock(BuffesWorldModElements instance) {
+		super(instance, 51);
 	}
 
 	@Override
@@ -37,15 +34,11 @@ public class OrangeSlabBlock extends BuffesWorldModElements.ModElement {
 		elements.items
 				.add(() -> new BlockItem(block, new Item.Properties().group(CreativetabItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
-	public static class CustomBlock extends SlabBlock {
+	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(2f, 3f).setLightLevel(s -> 0));
-			setRegistryName("orange_slab");
-		}
-
-		@Override
-		public int getFlammability(BlockState state, IBlockReader world, BlockPos pos, Direction face) {
-			return 5;
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(10)
+					.harvestTool(ToolType.PICKAXE).setRequiresTool());
+			setRegistryName("runicore");
 		}
 
 		@Override
@@ -53,7 +46,7 @@ public class OrangeSlabBlock extends BuffesWorldModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(this, state.get(TYPE) == SlabType.DOUBLE ? 2 : 1));
+			return Collections.singletonList(new ItemStack(RuneItem.block, (int) (4)));
 		}
 	}
 }

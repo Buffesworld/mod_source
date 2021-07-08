@@ -447,6 +447,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "citrine_armour_armor_boots_recipe"
+    },
+    {
+      "name": "Rune",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rune"
+    },
+    {
+      "name": "Runicore",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runicore"
     }
   ],
   "variable_elements": [],
@@ -459,6 +477,7 @@
       "block.buffes_world.purple_leaves": "Purple Leaves",
       "item.buffes_world.citrine": "Citrine",
       "block.buffes_world.orange_leaves": "Orange Leaves",
+      "item.buffes_world.rune": "Rune",
       "block.buffes_world.purple_log": "Purple Log",
       "biome.buffes_world.orangewoodforest": "Orangewood Forest",
       "block.buffes_world.orange_planks": "Orange Planks",
@@ -481,7 +500,8 @@
       "block.buffes_world.purple_planks": "Purple Planks",
       "block.buffes_world.orange_fence_gate": "Orange Fence Gate",
       "itemGroup.tabcreativetab": "Buff-E\u0027s World",
-      "item.buffes_world.purplecow_spawn_egg": "Mystical Cow Spawn Egg"
+      "item.buffes_world.purplecow_spawn_egg": "Mystical Cow Spawn Egg",
+      "block.buffes_world.runicore": "Runic Ore"
     }
   },
   "foldersRoot": {
