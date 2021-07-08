@@ -36,7 +36,7 @@ public class RunicoreBlock extends BuffesWorldModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(10)
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(3)
 					.harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("runicore");
 		}
@@ -46,7 +46,7 @@ public class RunicoreBlock extends BuffesWorldModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(RuneItem.block, (int) (4)));
+			return Collections.singletonList(new ItemStack(RuneItem.block, (int) (2)));
 		}
 	}
 }
