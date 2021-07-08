@@ -1,0 +1,12 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "buffes_world:citrine_ore"
+  },
+  "result": {
+    "item": "buffes_world:citrine"
+  }
+}

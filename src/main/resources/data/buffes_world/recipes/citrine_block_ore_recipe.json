@@ -1,0 +1,13 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "buffes_world:citrine_block"
+    }
+  ],
+  "result": {
+    "item": "buffes_world:citrine",
+    "count": 9
+  }
+}

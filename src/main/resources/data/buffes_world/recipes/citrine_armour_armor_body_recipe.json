@@ -1,0 +1,39 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "buffes_world:citrine"
+    },
+    "2": {
+      "item": "buffes_world:citrine"
+    },
+    "3": {
+      "item": "buffes_world:citrine"
+    },
+    "4": {
+      "item": "buffes_world:citrine"
+    },
+    "5": {
+      "item": "buffes_world:citrine"
+    },
+    "6": {
+      "item": "buffes_world:citrine"
+    },
+    "7": {
+      "item": "buffes_world:citrine"
+    },
+    "8": {
+      "item": "buffes_world:citrine"
+    }
+  },
+  "result": {
+    "item": "buffes_world:citrine_armour_armor_chestplate",
+    "count": 1
+  }
+}

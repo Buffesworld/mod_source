@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "buffes_world:items/citrine_armour_boots"
+  }
+}

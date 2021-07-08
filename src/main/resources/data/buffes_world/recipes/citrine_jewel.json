@@ -1,0 +1,22 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "buffes_world:citrine"
+    },
+    {
+      "item": "buffes_world:citrine"
+    },
+    {
+      "item": "buffes_world:citrine"
+    },
+    {
+      "item": "buffes_world:citrine"
+    }
+  ],
+  "result": {
+    "item": "buffes_world:citrinejewel",
+    "count": 4
+  }
+}

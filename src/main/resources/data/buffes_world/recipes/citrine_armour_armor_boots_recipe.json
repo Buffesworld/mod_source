@@ -1,0 +1,26 @@
+{
+  "group": "buffes_world",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "buffes_world:citrine"
+    },
+    "2": {
+      "item": "buffes_world:citrine"
+    },
+    "3": {
+      "item": "buffes_world:citrine"
+    },
+    "5": {
+      "item": "buffes_world:citrine"
+    }
+  },
+  "result": {
+    "item": "buffes_world:citrine_armour_armor_boots",
+    "count": 1
+  }
+}

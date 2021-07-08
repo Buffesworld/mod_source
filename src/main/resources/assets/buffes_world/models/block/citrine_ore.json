@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "buffes_world:blocks/citrine_ore",
+    "particle": "buffes_world:blocks/citrine_ore"
+  }
+}
