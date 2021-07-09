@@ -51,10 +51,10 @@ public class MysticalforestBiome extends BuffesWorldModElements.ModElement {
 		public void registerBiomes(RegistryEvent.Register<Biome> event) {
 			if (biome == null) {
 				BiomeAmbience effects = new BiomeAmbience.Builder().setFogColor(12638463).setWaterColor(4159204).setWaterFogColor(329011)
-						.withSkyColor(7972607).withFoliageColor(10387789).withGrassColor(9470285).build();
+						.withSkyColor(7972607).withFoliageColor(10387789).withGrassColor(-10092442).build();
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder()
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(Blocks.GRASS_BLOCK.getDefaultState(),
-								Blocks.STONE.getDefaultState(), Blocks.STONE.getDefaultState())));
+								Blocks.DIRT.getDefaultState(), Blocks.DIRT.getDefaultState())));
 				biomeGenerationSettings.withStructure(StructureFeatures.VILLAGE_PLAINS);
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION, Feature.TREE
 						.withConfiguration((new BaseTreeFeatureConfig.Builder(new SimpleBlockStateProvider(PurpleLogBlock.block.getDefaultState()),
