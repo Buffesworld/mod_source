@@ -18,7 +18,6 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.DamageSource;
 import net.minecraft.network.IPacket;
 import net.minecraft.item.SpawnEggItem;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.entity.ai.goal.SwimGoal;
 import net.minecraft.entity.ai.goal.RandomWalkingGoal;
@@ -35,6 +34,7 @@ import net.minecraft.entity.CreatureEntity;
 import net.minecraft.entity.CreatureAttribute;
 import net.minecraft.block.material.Material;
 
+import net.mcreator.buffesworld.itemgroup.CreativetabItemGroup;
 import net.mcreator.buffesworld.entity.renderer.PurplecowRenderer;
 import net.mcreator.buffesworld.BuffesWorldModElements;
 
@@ -53,7 +53,7 @@ public class PurplecowEntity extends BuffesWorldModElements.ModElement {
 	@Override
 	public void initElements() {
 		elements.entities.add(() -> entity);
-		elements.items.add(() -> new SpawnEggItem(entity, -14548946, -3394561, new Item.Properties().group(ItemGroup.MISC))
+		elements.items.add(() -> new SpawnEggItem(entity, -14548946, -3394561, new Item.Properties().group(CreativetabItemGroup.tab))
 				.setRegistryName("purplecow_spawn_egg"));
 	}
 
