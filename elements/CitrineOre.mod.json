@@ -104,7 +104,11 @@
     "spawnWorldTypes": [
       "Surface"
     ],
-    "restrictionBiomes": [],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:OrangeForest"
+      }
+    ],
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"

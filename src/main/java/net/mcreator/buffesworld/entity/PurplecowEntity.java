@@ -18,6 +18,7 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.DamageSource;
 import net.minecraft.network.IPacket;
 import net.minecraft.item.SpawnEggItem;
+import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.entity.ai.goal.SwimGoal;
 import net.minecraft.entity.ai.goal.RandomWalkingGoal;
@@ -35,6 +36,7 @@ import net.minecraft.entity.CreatureAttribute;
 import net.minecraft.block.material.Material;
 
 import net.mcreator.buffesworld.itemgroup.CreativetabItemGroup;
+import net.mcreator.buffesworld.item.RunicshardItem;
 import net.mcreator.buffesworld.entity.renderer.PurplecowRenderer;
 import net.mcreator.buffesworld.BuffesWorldModElements;
 
@@ -114,6 +116,11 @@ public class PurplecowEntity extends BuffesWorldModElements.ModElement {
 		@Override
 		public CreatureAttribute getCreatureAttribute() {
 			return CreatureAttribute.UNDEFINED;
+		}
+
+		protected void dropSpecialItems(DamageSource source, int looting, boolean recentlyHitIn) {
+			super.dropSpecialItems(source, looting, recentlyHitIn);
+			this.entityDropItem(new ItemStack(RunicshardItem.block, (int) (1)));
 		}
 
 		@Override

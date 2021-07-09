@@ -9,8 +9,24 @@
     "undergroundBlock": {
       "value": "Blocks.DIRT#0"
     },
+    "airColor": {
+      "value": -26113,
+      "falpha": 0.0
+    },
     "grassColor": {
       "value": -10092442,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -65332,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -3407668,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -3394561,
       "falpha": 0.0
     },
     "ambientSound": {

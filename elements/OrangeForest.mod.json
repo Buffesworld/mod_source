@@ -9,6 +9,22 @@
     "undergroundBlock": {
       "value": "Blocks.STONE#0"
     },
+    "airColor": {
+      "value": -6724096,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -11848181,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -11848181,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -11848181,
+      "falpha": 0.0
+    },
     "ambientSound": {
       "value": ""
     },
